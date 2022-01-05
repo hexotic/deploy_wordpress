@@ -1,2 +1,4 @@
 - src: https://github.com/hexotic/docker_role.git
+- src: hexotic.docker_role
+- src: hexotic.wordpress_role
 - src: https://github.com/hexotic/wordpress_role.git
